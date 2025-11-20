@@ -1,0 +1,21 @@
+.dashboard-title {
+  margin: 0 0 8px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.dashboard-subtitle {
+  margin: 0;
+  font-size: 14px;
+  color: #4b5563;
+}
+
+.dashboard-card {
+  margin-top: 28px;
+  width: 360px;
+  background: #ffffff;
+  padding: 20px 22px;
+  border-radius: 14px;
+  box-shadow: 0 16px 30px rgba(15, 23, 42, 0.12);
+}
